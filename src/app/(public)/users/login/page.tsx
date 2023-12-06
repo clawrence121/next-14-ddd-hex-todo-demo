@@ -9,6 +9,7 @@ export default function UsersLoginPage() {
       }
     >
       <h1>Welcome to the Users Login Page!</h1>
+      <h2>9/10 users would recommend our Todo product to their Aunt</h2>
       <LoginForm />
       <form
         action={async () => {

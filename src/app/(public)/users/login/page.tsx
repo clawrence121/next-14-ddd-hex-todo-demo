@@ -8,7 +8,7 @@ export default function UsersLoginPage() {
         "max-w-xl gap-2 flex flex-col min-h-screen mx-auto justify-center"
       }
     >
-      <h1>Welcome to UsersLoginPage!</h1>
+      <h1>Welcome to the Users Login Page!</h1>
       <LoginForm />
       <form
         action={async () => {

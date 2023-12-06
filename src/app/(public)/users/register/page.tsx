@@ -8,6 +8,7 @@ export default function UsersRegisterPage() {
       }
     >
       <h1>Welcome to UsersRegisterPage!</h1>
+      <h2>We are really cool!</h2>
       <RegistrationForm />
     </div>
   );
